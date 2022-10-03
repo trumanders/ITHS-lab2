@@ -3,15 +3,13 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace ITHS_lab2
-{
+{      
     abstract class Appliance : IKitchenAppliance
     {
-        public string Type { get; set; }        
+        public string Type { get; set; }
         public string Brand { get; set; }
         public bool IsFunctioning { get; set; }
-        private string functioningStr;
-
-        public Appliance() {}
+        public string functioningStr;
 
         public Appliance(string brand, bool isFunctioning)
         {
@@ -22,11 +20,22 @@ namespace ITHS_lab2
             else functioningStr = "Trasig";
         }
 
+
+        /// <summary>
+        /// Is called when the user choses to use an appliance
+        /// </summary>
         public void Use()
         {
-
+            if (IsFunctioning) Console.WriteLine("\nAnvänder apparaten...");
+            else Console.WriteLine("\nApparaten är trasig");
         }
 
+
+        /// <summary>
+        /// Sets the Type-property based on the current object's type.
+        /// </summary>
+        /// <param name="type">The object's type in string format</param>
+        /// <returns>Formated version of the object's type</returns>
         private string SetType(string type)
         {
             switch (type)
@@ -45,15 +54,8 @@ namespace ITHS_lab2
                     return "Brödrost";
                 case "ITHS_lab2.WaffleIron":
                     return "Våffeljärn";
-                    default: return null;
+                default: return null;
             }
-        }
-
-        public void ShowApplianceInfo()
-        {
-            Console.WriteLine(Type);
-            Console.WriteLine(Brand);
-            Console.WriteLine(functioningStr);
         }
     }
 }
