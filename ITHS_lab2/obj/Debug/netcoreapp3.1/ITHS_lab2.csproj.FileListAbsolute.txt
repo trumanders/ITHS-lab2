@@ -1,0 +1,14 @@
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= ITHS =-\ITHS_lab2\ITHS_lab2\obj\Debug\netcoreapp3.1\ITHS_lab2.csproj.AssemblyReference.cache
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= ITHS =-\ITHS_lab2\ITHS_lab2\obj\Debug\netcoreapp3.1\ITHS_lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= ITHS =-\ITHS_lab2\ITHS_lab2\obj\Debug\netcoreapp3.1\ITHS_lab2.AssemblyInfoInputs.cache
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= ITHS =-\ITHS_lab2\ITHS_lab2\obj\Debug\netcoreapp3.1\ITHS_lab2.AssemblyInfo.cs
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= ITHS =-\ITHS_lab2\ITHS_lab2\obj\Debug\netcoreapp3.1\ITHS_lab2.csproj.CoreCompileInputs.cache
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= ITHS =-\ITHS_lab2\ITHS_lab2\bin\Debug\netcoreapp3.1\ITHS_lab2.exe
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= ITHS =-\ITHS_lab2\ITHS_lab2\bin\Debug\netcoreapp3.1\ITHS_lab2.deps.json
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= ITHS =-\ITHS_lab2\ITHS_lab2\bin\Debug\netcoreapp3.1\ITHS_lab2.runtimeconfig.json
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= ITHS =-\ITHS_lab2\ITHS_lab2\bin\Debug\netcoreapp3.1\ITHS_lab2.runtimeconfig.dev.json
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= ITHS =-\ITHS_lab2\ITHS_lab2\bin\Debug\netcoreapp3.1\ITHS_lab2.dll
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= ITHS =-\ITHS_lab2\ITHS_lab2\bin\Debug\netcoreapp3.1\ITHS_lab2.pdb
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= ITHS =-\ITHS_lab2\ITHS_lab2\obj\Debug\netcoreapp3.1\ITHS_lab2.dll
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= ITHS =-\ITHS_lab2\ITHS_lab2\obj\Debug\netcoreapp3.1\ITHS_lab2.pdb
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= ITHS =-\ITHS_lab2\ITHS_lab2\obj\Debug\netcoreapp3.1\ITHS_lab2.genruntimeconfig.cache

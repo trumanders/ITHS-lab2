@@ -1,10 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
 namespace ITHS_lab2
 {
-    internal interface IKitchenAppliance
+    public interface IKitchenAppliance
     {
+        string Type { get; set; }
+        string Brand { get; set; }
+        public bool IsFunctioning { get; set; }
+        void Use();
     }
 }
